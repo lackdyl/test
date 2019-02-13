@@ -1,13 +1,14 @@
 <<<<<<< HEAD
-*Modifi� !!!!!!!!!
-Hola Ceci est un premier fichier sauvegard�
+*Modifié !!!!!!!!!
+
+Hola Ceci est un premier fichier sauvegardé
 
 FFFF
 
-Toujours et encore modifi� :-)
+Toujours et encore modifié :-)
 =======
-*Modifié !!!!!!!!!
+*ModifiÃ© !!!!!!!!!
 
 
-Encore modifié :)
+Encore modifiÃ© :)
 >>>>>>> c8e5009a76e44087a1865e2f09e02b6a0a701f62
