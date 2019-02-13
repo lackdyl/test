@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 *Modifié !!!!!!!!!
 Hey Ceci est un premier fichier sauvegardé
 
 Encore modifié :) --> en -dessous
 
 Toujours et encore modifié :-)
+=======
+*ModifiÃ© !!!!!!!!!
+Non je crois pas
+
+Encore modifiÃ© :)
+>>>>>>> c8e5009a76e44087a1865e2f09e02b6a0a701f62
